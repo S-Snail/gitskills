@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-# Git is a free software.
-=======
 # Create a new branch is quick and simple.
-# Bug fix.
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
